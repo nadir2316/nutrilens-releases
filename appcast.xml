@@ -3,6 +3,23 @@
 <channel>
     <title>NutriLens Changelog</title>
     <item>
+        <title>Version 1.0.2</title>
+        <description>
+            <![CDATA[
+            <h2>New Features in v1.0.2:</h2>
+            <ul>
+                <li>⚙️ <b>New Settings Page:</b> Manage your preferences easily.</li>
+                <li>🌓 <b>Dark & Light Mode:</b> Switch between themes for better visibility.</li>
+                <li>🚀 UI Improvements & Bug Fixes.</li>
+            </ul>
+            ]]>
+        </description>
+        <pubDate>Mon, 16 Feb 2026 22:00:00 +0000</pubDate>
+        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.0.2/NutriLens_Setup_1.0.2.exe"
+                   sparkle:version="1.0.2"
+                   sparkle:os="windows" />
+    </item>
+    <item>
         <title>Version 1.0.1</title>
         <description>
             <![CDATA[
