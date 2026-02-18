@@ -3,22 +3,23 @@
 <channel>
     <title>NutriLens Changelog</title>
     <item>
-        <title>Version 1.1.7</title>
+        <title>Version 1.1.8</title>
         <description>
             <![CDATA[
-            <h2>New Features in v1.1.7:</h2>
+            <h2>New Features in v1.1.8:</h2>
             <ul>
                 <li>⚙️ <b>New Settings Page:</b> Manage your preferences easily.</li>
-                <li>🌓 <b>Dark & Light Mode:</b> Switch between themes for better visibility.</li>
-                <li>🚀 UI Improvements & Bug Fixes.</li>
-                <li>✅ Fixed Data Saving (no more data loss).</li>
+                <li>🌓 BMI Gauge Widget + Weight Chart Widget: Chart.</li>
+                <li>🚀 إشعار صوتي + Animation عند إضافة مريض جديد.</li>
+                <li>✅ رسم بياني لتطور وزن المريض (Weight Progress Chart).</li>
                 <li>✅ Fixed App Crash issues.</li>
                 <li>✅ Default language set to French.</li>
+                <li>✅ BMI + Weight Chart.</li>
             </ul>
             ]]>
         </description>
         <pubDate>Tue, 18 Feb 2026 02:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.1.7/NutriLens_Setup_1.1.7.exe"
+        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.1.8/NutriLens_Setup_1.1.8.exe"
                    sparkle:version="1.1.7"
                    sparkle:os="windows"
                    type="application/octet-stream"
