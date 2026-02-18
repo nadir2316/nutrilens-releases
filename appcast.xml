@@ -3,7 +3,7 @@
 <channel>
     <title>NutriLens Changelog</title>
     <item>
-        <title>Version 1.1.9</title>
+        <title>Version 1.1.12</title>
         <description>
             <![CDATA[
             <h2>New Features in v1.1.9:</h2>
@@ -19,8 +19,8 @@
             ]]>
         </description>
         <pubDate>Tue, 18 Feb 2026 14:30:00 +0000</pubDate>
-        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.1.9/NutriLens_Setup_1.1.9.exe"
-                   sparkle:version="1.1.9"
+        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.1.12/NutriLens_Setup_1.1.12.exe"
+                   sparkle:version="1.1.12"
                    sparkle:os="windows"
                    type="application/octet-stream"
                    length="0" />
