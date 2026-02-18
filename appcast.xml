@@ -3,6 +3,29 @@
 <channel>
     <title>NutriLens Changelog</title>
     <item>
+        <title>Version 1.1.9</title>
+        <description>
+            <![CDATA[
+            <h2>New Features in v1.1.9:</h2>
+            <ul>
+                <li>⚡ <b>AI Smart Alternatives (بدائل ذكية):</b> Swap meals instantly with 3 Algerian alternatives (Breakfast/Lunch/Dinner) tailored to calorie needs.</li>
+                <li>✏️ <b>Doctor Edit Mode:</b> Doctors can now edit the suggested alternative ingredients/quantities before confirming.</li>
+                <li>⚖️ <b>Auto-Recalculate:</b> Daily calories and macros (P, C, F) are automatically updated after any meal swap.</li>
+                <li>🧮 <b>Quick Calorie Calculator (حاسبة السعرات):</b> Analyze any food item or dish instantly using AI (USDA Database).</li>
+                <li>🛒 <b>Smart Grocery List (قائمة المشتريات):</b> Generate a shopping list based on the diet plan with estimated Algerian prices (DZD).</li>
+                <li>🚀 <b>Performance Boost:</b> Parallel calorie analysis for faster and more accurate results.</li>
+                <li>🪄 <b>New Floating Tools Button:</b> Quick access to all smart tools from the edit screen.</li>
+            </ul>
+            ]]>
+        </description>
+        <pubDate>Tue, 18 Feb 2026 14:30:00 +0000</pubDate>
+        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.1.9/NutriLens_Setup_1.1.9.exe"
+                   sparkle:version="1.1.9"
+                   sparkle:os="windows"
+                   type="application/octet-stream"
+                   length="0" />
+    </item>
+    <item>
         <title>Version 1.1.8</title>
         <description>
             <![CDATA[
