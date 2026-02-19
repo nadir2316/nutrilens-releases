@@ -19,14 +19,14 @@
             ]]>
         </description>
         <pubDate>Tue, 18 Feb 2026 14:30:00 +0000</pubDate>
-        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/v1.2.1/NutriLens_Setup_1.2.1.exe"
+        <enclosure url="https://github.com/nadir2316/nutrilens-releases/releases/download/1.2.1/NutriLens_Setup_1.2.1.exe"
                    sparkle:version="1.2.1"
                    sparkle:os="windows"
                    type="application/octet-stream"
                    length="0" />
     </item>
     <item>
-        <title>Version 1.1.8</title>
+        <title>Version 1.1.13</title>
         <description>
             <![CDATA[
             <h2>New Features in v1.1.8:</h2>
